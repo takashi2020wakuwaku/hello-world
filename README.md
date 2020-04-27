@@ -1,2 +1,4 @@
 # hello-world
-初めてですのことよ
+mkdir awesome
+cd awesome
+git init
